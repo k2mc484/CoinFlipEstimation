@@ -1,2 +1,2 @@
 # CoinFlipEstimation
-Shows the relationship between the steak of flipped coins and the number of coins flipped.
+Shows the relationship between the streak of flipped coins and the number of coins flipped.
